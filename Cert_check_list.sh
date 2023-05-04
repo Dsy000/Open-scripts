@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Created by @DY.
 # Usage: ./Cert_check.sh <domain_file>
 
 if [ "$#" -ne 1 ]; then
