@@ -1,5 +1,5 @@
 #!/bin/bash
-# Created by @deepak_yadav.
+# Created by @DY.
 # bash GpgKeyGen.sh -m email@example.com -n name -t RSA -s 4096 -l <directorypath> -p pubring.gpg -r secring.gpg -x 1d
 # -n   name of key pair
 # -m   mail of key paire
