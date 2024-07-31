@@ -1,5 +1,7 @@
 #Use: Monitore SOURCE_DIR dir if any file come then move on DESTINATION_DIR with time stemp
 
+
+#V1 ---------------------------------------------------------------------------------------------------------------------
 #!/bin/bash
 SOURCE_DIR="/mnt/jail/dir1"
 DESTINATION_DIR="/mnt/jail/dir2"
@@ -18,3 +20,5 @@ do
     mv "$SOURCE_DIR/$NEW_FILE" "$DESTINATION_DIR/$new_name"
     echo "Moved $NEW_FILE to $DESTINATION_DIR/$new_name"
 done
+
+#V2 ---------------------------------------------------------------------------------------------------------------------
