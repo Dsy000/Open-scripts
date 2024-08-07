@@ -1,5 +1,6 @@
 #Use: Monitore SOURCE_DIR dir if any file come then move on DESTINATION_DIR with time stemp
-
+#sudo apt update
+#sudo apt install inotify-tools
 
 #V1 ---------------------------------------------------------------------------------------------------------------------
 #!/bin/bash
