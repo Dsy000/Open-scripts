@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#This script for Nagios
+#Created by @dy
+ 
 RABBITMQ_USER="admin"
 RABBITMQ_PASSWORD="admin"
 RABBITMQ_HOST="172.16.1.55"  #Your rabbit MQ host ip
